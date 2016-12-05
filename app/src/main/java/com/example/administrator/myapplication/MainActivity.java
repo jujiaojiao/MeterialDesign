@@ -64,9 +64,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(this, "Action2", Toast.LENGTH_SHORT).show();
                 break;
 
-//            case R.id.home:
-//                Toast.makeText(this, "Home", Toast.LENGTH_SHORT).show();
-//                break;
 
         }
         return super.onOptionsItemSelected(item);
